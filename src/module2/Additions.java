@@ -3,6 +3,7 @@ package module2;
 class Multiple1 {
 	public void multiple(int value1 , int value2) {
 		System.out.println("Multiple of "+value1+" and "+value2+ " is "+ (value1*value2));
+		System.out.println();
 	}
 }
 
